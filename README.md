@@ -21,11 +21,11 @@ This program does three simple things:
 
 # Anticheat Compatibility
 
-*Deadlock* uses the VAC. Anticheat compability is currently unknown.
+*Deadlock* uses the VAC. Anticheat compatibility is currently unknown.
 
 # Notes
 
-- This project is just for fun. It was created after an abonimable experience in a game after a Billy phantom striked me five (5) consecutive times and punched my guts out.
+- This project is just for fun. It was created after an abominable experience in a game after a Billy phantom striked  me five (5) consecutive times and punched my guts out.
 - This is cheating. Do not use this in game. Actually learn the game and learn how to parry phantom strikes.
 - Should this item be removed or nerfed, this repository will subsequently be archived.
 
