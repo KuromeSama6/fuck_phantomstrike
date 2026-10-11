@@ -2,7 +2,7 @@
 
 This item can go fuck itself.
 
-![Vindicta](images/vindicta_speech_bubble.gif)
+![Vindicta](images/vindicta_speech_bubble.png)
 
 **Please don't use this in-game.**
 
